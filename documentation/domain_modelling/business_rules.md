@@ -1,0 +1,22 @@
+- A department (also a section) has a unique name.
+- Teams within a section are distinquished by consecutive letters of the alphabet.
+- If a section has just one member of staff, that person reports directly to the head of the department that the section is part of.
+- A section that has more than one staff member has a section coordinator who reports to the department head.
+- A team has a team leader that reports to the section coordinator.
+- Department head reports to the managing director.
+- A regular employee has contractual obligation to work a particular number of hours per week within time frame set by the company.
+- An overtime is paid with hourly rate that is agreed within the employment contract.
+- An employee has right to annual paid holiday.
+- A new employee must satisfactorily complete a probationary period.
+- A probationary period can be extended if required but only once and for a period not longer than the first one.
+- At the end of the probationary period there is an end of probation assessment carried out that may lead to not renewing the employment contract if the assessment is not satisfactory.
+- An employee has to provide a prove that he/she holds a work permit, if applicable.
+- There is not minimum term of employment during the first probationary period. The length of notice required from either employee or employer to end employment is one week during the extended probation and after successful completion of the probation it extends to a period guaranteed by the law.
+- An employee must inform his/her line manager about the reason of the absence and expected date of return to work as soon as possible. Failure to do so may result in disciplinary action and the company may withold sick pay.
+- On return to work after sick leave the employee is required to provide certification either from doctor or oneself, depending on the rules applicable to that case.
+- An employee after satisfactory completion of the probationary period is entitled to join the company pension scheme if one is provided.
+- The company keeps records of the devices provided for an employee to carry on his/her duties, they remain company's properties and the employee is restricted to use them for business purposes with accordance to the applicable company policies.
+- Once a year, the employee's performance is assessed during annual appraisal by his/her line manager and the objectives for the next year are set at the same time.
+- The progress in achievement of employee's objectives for ongoing year is assessed at least once a quarter.
+- The professional training of each employee is measured and recorded.
+- The line manager can, if necessary, order additional training for his/her personel.

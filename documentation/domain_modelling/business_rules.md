@@ -1,3 +1,5 @@
+# Business rules
+
 - A department (also a section) has a unique name.
 - Teams within a section are distinquished by consecutive letters of the alphabet.
 - If a section has just one member of staff, that person reports directly to the head of the department that the section is part of.

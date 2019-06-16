@@ -1,6 +1,7 @@
 # Business processes
 
 - [Hire an employee](#hire-an-employee)
+- [Finish probation](#finish-probation)
 
 ## Hire an employee
 
@@ -9,5 +10,15 @@ The process of hiring an employee begins when the candidate successfully passes 
 Figure 1. Activity diagram for the _hire an employee_ business process
 
 ![Activity diagram for the 'hire an employee' business process](./activity_diagrams/hire_employee.svg)
+
+[Back to top](#business-processes)
+
+## Finish probation
+
+The probation period begins with successfully completed hiring process. At its end there is an end of probation assessment carried out by HR Department along with employee's line manager. If the assessment is not satisfactory the probation is extended for another period or the employment is terminated. If the probation is extended, an employee is informed what is the reason of that and what actions are required for successfull finish of that extended probation. Otherwise the employment termination process is executed with immediate effect. At the end of the second probation a new assessment is carried out. This time, if assessment is satisfactory the employment become permanent, otherwise the employment termination process is executed with one week notice.
+
+Figure 2. Activity diagram for the _finish probation_ business process
+
+![Activity diagram for the 'finish probation' business process](./activity_diagrams/finish_probation.svg)
 
 [Back to top](#business-processes)

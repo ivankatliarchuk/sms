@@ -12,7 +12,7 @@ Each regular employee has contractual obligation to work a particular number of 
 
 A new employee must satisfactorily complete a probationary period that can be extended if required but only once and for a period not longer than the first one. At the end there is an end of probation assessment carried out that may lead to not renewing the employment contract if the assessment is not satisfactory. There is not minimum term of employment during the first probationary period, but during the extended probation the notice needed to end employment is one week for either party. After successful completion of the probation the length of notice required from either employee or employer extends to a period guaranteed by the law. An employee has to provide a prove that he/she holds a work permit, if applicable.
 
-If absent, an employee must inform his/her line manager about the reason of the absence and expected date of return to work as soon as possible. Failure to do so may result in disciplinary action and the company may withold sick pay. On return the employee is required to provide certification either from doctor or oneself, depending the rules applicable to that case.
+If absent, an employee must inform his/her line manager about the reason of the absence and expected date of return to work as soon as possible. Failure to do so may result in disciplinary action and the company may withold sick pay. On return the employee is required to provide certification either from doctor or oneself, depending on the rules applicable to that case.
 
 Each employee after satisfactory completion of the probationary period is entitled to join the company pension scheme if one is provided.
 

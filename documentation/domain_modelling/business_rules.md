@@ -22,3 +22,4 @@
 - The progress in achievement of employee's objectives for ongoing year is assessed at least once a quarter.
 - The professional training of each employee is measured and recorded.
 - The line manager can, if necessary, order additional training for his/her personel.
+- A team leader is not a member of the management and is not considered as a line manager for his/her team members.

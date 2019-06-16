@@ -217,7 +217,7 @@ employee's data</panel_attributes>
       <x>384</x>
       <y>704</y>
       <w>136</w>
-      <h>40</h>
+      <h>48</h>
     </coordinates>
     <panel_attributes>transfers the documents
 to be kept in files</panel_attributes>
@@ -250,12 +250,12 @@ to be kept in files</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>440</x>
-      <y>736</y>
+      <y>744</y>
       <w>24</w>
-      <h>72</h>
+      <h>64</h>
     </coordinates>
     <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>10.0;70.0;10.0;10.0</additional_attributes>
+    <additional_attributes>10.0;60.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>UMLState</id>

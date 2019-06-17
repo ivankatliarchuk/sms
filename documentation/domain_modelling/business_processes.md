@@ -2,6 +2,7 @@
 
 - [Hire an employee](#hire-an-employee)
 - [Finish probation](#finish-probation)
+- [Handle employee absence](#handle-employee-absence)
 
 ## Hire an employee
 
@@ -30,3 +31,5 @@ An absence could be planned, such as holidays, or unexpected. In the case of the
 The HR Department review the employee's records regarding unannounced absences and records the current one. During next three days, if employee is still absent and is not contacting the company, the line manager makes multiple attempts to contact him/her via telephone or email. At the same time the HR Department tries to contact the employee's next of kin, if there are contact details of such person in the employee's record. If no contact attempt is successful, the HR Department checks with other employees to see if the absent one gave notice to some other supervisor and records all attempts to contact the employee taken so far. The next step is to send to the employee a registered letter with information about the number of days he/she has been absent without any notice given to the employer and the date of the employment termination if the employee does not contact the company. If such letter will not cause a response, the HR Department documents termination of the employment due to voluntary quitting by the employee.
 
 If during this time the employee or next of kin contacts the company and provides an excusable reason of absence, the fact is recorded and the whole process stopped. If the reason of absence is not excusable, the HR Department issues written warning to the employee with proof of receipt. Upon the employee's return to duty a meeting is held with him/her to discus the absence, allowing the employee to explain the circumstances, explaining to him/her how the absence affected the company and giving him/her a written notice of consequences of any further such absence and a very clear information that persistent absences will cause the termination of employment.
+
+[Back to top](#business-processes)

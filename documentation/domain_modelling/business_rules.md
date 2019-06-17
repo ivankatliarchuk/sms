@@ -1,7 +1,7 @@
 # Business rules
 
 - A department (also a section) has a unique name.
-- Teams within a section are distinquished by consecutive letters of the alphabet.
+- Teams within a section are distinguished by consecutive letters of the alphabet.
 - If a section has just one member of staff, that person reports directly to the head of the department that the section is part of.
 - A section that has more than one staff member has a section coordinator who reports to the department head.
 - A team has a team leader that reports to the section coordinator.
@@ -21,5 +21,5 @@
 - Once a year, the employee's performance is assessed during annual appraisal by his/her line manager and the objectives for the next year are set at the same time.
 - The progress in achievement of employee's objectives for ongoing year is assessed at least once a quarter.
 - The professional training of each employee is measured and recorded.
-- The line manager can, if necessary, order additional training for his/her personel.
+- The line manager can, if necessary, order additional training for his/her personnel.
 - A team leader is not a member of the management and is not considered as a line manager for his/her team members.

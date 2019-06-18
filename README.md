@@ -1,2 +1,2 @@
-# sms
+# SMS
 Staff Management System

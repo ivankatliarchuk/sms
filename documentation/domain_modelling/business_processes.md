@@ -3,6 +3,7 @@
 - [Hire an employee](#hire-an-employee)
 - [Finish probation](#finish-probation)
 - [Handle employee absence](#handle-employee-absence)
+- [Plan employee holidays](#plan-employee-holidays)
 
 ## Hire an employee
 
@@ -49,3 +50,5 @@ Figure 3. Activity diagram for the _plan employee holidays_ business process
 ![Activity diagram for the 'plan employee holidays' business process](./activity_diagrams/plan_employee_holidays.svg)
 
 [Back to top](#business-processes)
+
+## Manage employee development

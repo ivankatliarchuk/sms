@@ -37,3 +37,15 @@ Figure 3. Activity diagram for the _handle employee absence_ business process
 ![Activity diagram for the 'handle employee absence' business process](./activity_diagrams/handle_employee_absence.svg)
 
 [Back to top](#business-processes)
+
+## Plan employee holidays
+
+An employee has to submit a holiday request to his/her line manager at least a month in advance. If request is submitted later than that, the line manager can reject it on the basis of not having enough time to project how the employee's absence might impact the business and to prepare cover for that period. Even if the request is submitted timely, it could still be rejected if in the period requested or overlapping period there are already agreed holidays for some other employee and there is no way of covering duties of that many members of staff absent at the same time.
+
+Once the request is approved, the line manager has to plan how to cover the employee's job for the period of his/her holidays. The line manager provides the employee going on holiday with a check list of what needs to be set up so the cover employee could take over his/her responsibilities for that time. On the last day before holidays the employee taking time off should provide a summary of work in progress, major responsibilities, information about key contacts and way of accessing all that is required to meet deadlines for that period.
+
+Figure 3. Activity diagram for the _plan employee holidays_ business process
+
+![Activity diagram for the 'plan employee holidays' business process](./activity_diagrams/plan_employee_holidays.svg)
+
+[Back to top](#business-processes)

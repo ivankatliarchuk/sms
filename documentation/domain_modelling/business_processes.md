@@ -45,7 +45,7 @@ An employee has to submit a holiday request to his/her line manager at least a m
 
 Once the request is approved, the line manager has to plan how to cover the employee's job for the period of his/her holidays. The line manager provides the employee going on holiday with a check list of what needs to be set up so the cover employee could take over his/her responsibilities for that time. On the last day before holidays the employee taking time off should provide a summary of work in progress, major responsibilities, information about key contacts and way of accessing all that is required to meet deadlines for that period.
 
-Figure 3. Activity diagram for the _plan employee holidays_ business process
+Figure 4. Activity diagram for the _plan employee holidays_ business process
 
 ![Activity diagram for the 'plan employee holidays' business process](./activity_diagrams/plan_employee_holidays.svg)
 

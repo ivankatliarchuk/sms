@@ -7,6 +7,7 @@
 - [Handle employee absence](#handle-employee-absence)
 - [Plan employee holidays](#plan-employee-holidays)
 - [Manage employee development](#manage-employee-development)
+- [Track employee training](#track-employee-training)
 
 ## Hire an employee
 
@@ -63,5 +64,15 @@ At least once a quarter the line manager holds a meeting with the employee to ch
 Figure 5. Activity diagram for the _manage employee development_ business process
 
 ![Activity diagram for the 'manage employee development' business process](./activity_diagrams/manage_employee_development.svg)
+
+[Back to index](#index)
+
+## Track employee training
+
+Every employee is responsible for keeping a record of his/her trainings. Each record contains information about the training, an evidence of performance, and a certificate of completion, if applicable. Each training record has to be approved be the line manager or a person designated by the line manager. If a training requires achieving several consecutive levels of competence, each level needs its own evidence and has to be approved by either the line manager or a person designated by the line manager. The line manager has the authority to approve a level of competence without prior training based on judgement of employee's previous experience, but this has to be recorded using a 'fast track' form. The line manager has to periodically check training records of members of staff so all records are up to date and no one is performing his/her duties without required level of training.
+
+Figure 6. Activity diagram for the _track employee training_ business process
+
+![Activity diagram for the 'track employee training' business process](./activity_diagrams/track_employee_training.svg)
 
 [Back to index](#index)

@@ -1,9 +1,12 @@
 # Business processes
 
+## Index
+
 - [Hire an employee](#hire-an-employee)
 - [Finish probation](#finish-probation)
 - [Handle employee absence](#handle-employee-absence)
 - [Plan employee holidays](#plan-employee-holidays)
+- [Manage employee development](#manage-employee-development)
 
 ## Hire an employee
 
@@ -13,7 +16,7 @@ Figure 1. Activity diagram for the _hire an employee_ business process
 
 ![Activity diagram for the 'hire an employee' business process](./activity_diagrams/hire_employee.svg)
 
-[Back to top](#business-processes)
+[Back to index](#index)
 
 ## Finish probation
 
@@ -23,7 +26,7 @@ Figure 2. Activity diagram for the _finish probation_ business process
 
 ![Activity diagram for the 'finish probation' business process](./activity_diagrams/finish_probation.svg)
 
-[Back to top](#business-processes)
+[Back to index](#index)
 
 ## Handle employee absence
 
@@ -37,7 +40,7 @@ Figure 3. Activity diagram for the _handle employee absence_ business process
 
 ![Activity diagram for the 'handle employee absence' business process](./activity_diagrams/handle_employee_absence.svg)
 
-[Back to top](#business-processes)
+[Back to index](#index)
 
 ## Plan employee holidays
 
@@ -49,6 +52,16 @@ Figure 4. Activity diagram for the _plan employee holidays_ business process
 
 ![Activity diagram for the 'plan employee holidays' business process](./activity_diagrams/plan_employee_holidays.svg)
 
-[Back to top](#business-processes)
+[Back to index](#index)
 
 ## Manage employee development
+
+Once a year, the line manager conducts an employee's performance assessment. During annual appraisal they discus employee's professional plans, checking how those plans fit into long-term and short-term goals and objectives of the company. Business needs are also the basis for the training plan that the employee is required to perform during the year and the line manager sets the date of their achievement during that meeting. If employee's plans align with business needs, the line manager has to asses if the employee is ready for their realisation, for example, are there any professional or private obstacles that could jeopardise the plan, discussing either modifications to the plan or moving the plan for the future. If employee is ready, then the line manager proposes a development plan. The results of the annual appraisal are presented in writing and signed by both parties.
+
+At least once a quarter the line manager holds a meeting with the employee to check the progress in training and development and discuss any obstacles and change of circumstances relevant to the business. All information gathered is recorded for analysis and audit purposes. If necessary, the line manager modifies the training and development plan for the employee. Skills and qualifications already achieved by the employee can be taken into consideration for his/her promotion, application for which the line manager submits to the managing director.
+
+Figure 5. Activity diagram for the _manage employee development_ business process
+
+![Activity diagram for the 'manage employee development' business process](./activity_diagrams/manage_employee_development.svg)
+
+[Back to index](#index)

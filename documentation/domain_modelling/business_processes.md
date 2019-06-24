@@ -8,6 +8,7 @@
 - [Plan employee holidays](#plan-employee-holidays)
 - [Manage employee development](#manage-employee-development)
 - [Track employee training](#track-employee-training)
+- [Reward employee](#reward-employee)
 
 ## Hire an employee
 
@@ -74,5 +75,16 @@ Every employee is responsible for keeping a record of his/her trainings. Each re
 Figure 6. Activity diagram for the _track employee training_ business process
 
 ![Activity diagram for the 'track employee training' business process](./activity_diagrams/track_employee_training.svg)
+
+[Back to index](#index)
+
+## Reward employee
+
+An employee in recognition of his/her exceptional work or professional achievements can be awarded within the department or the whole company. There are several options available. One of them is to award him/her with the title 'Employee of the Month' if selected from among the candidates submitted by line managers. Once a year, one of the employees of the month is awarded with the title 'Employee of the Year', and in addition receives a financial bonus. The line manager can award exceptional member of staff with a gift card or, if not disruptive to the business, a half-day off on Friday. Another way of recognition is to give such employee a written thank you note during the meeting of the department.
+All rewards are recorded in employee's files so they could be taken into consideration during annual salary review.
+
+Figure 7. Activity diagram for the _reward employee_ business process
+
+![Activity diagram for the 'reward employee' business process](./activity_diagrams/reward_employee.svg)
 
 [Back to index](#index)

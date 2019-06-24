@@ -9,6 +9,7 @@
 - [Manage employee development](#manage-employee-development)
 - [Track employee training](#track-employee-training)
 - [Reward employee](#reward-employee)
+- [Discipline employee](#discipline-employee)
 
 ## Hire an employee
 
@@ -86,5 +87,15 @@ All rewards are recorded in employee's files so they could be taken into conside
 Figure 7. Activity diagram for the _reward employee_ business process
 
 ![Activity diagram for the 'reward employee' business process](./activity_diagrams/reward_employee.svg)
+
+[Back to index](#index)
+
+## Discipline employee
+
+Any employee's action at work that is a breach of the company's policies is subject to disciplinary action. The reason for such action could be behaviour at work, absence from work or standard of work. If the reason is not serious, the line manager should first try to solve the problem informally, having a conversation with an employee. Only if the situation repeats, the line manager starts formal disciplinary procedures. The disciplinary action is carried out automatically if the breach of the company's policies is serious. If as a result, a decision is made about termination of the employment, the relevant procedure is carried out. Otherwise the outcome of the action is recorded in the employee's files. If the situation repeats, the employment can be terminated.
+
+Figure 8. Activity diagram for the _discipline employee_ business process
+
+![Activity diagram for the 'discipline employee' business process](./activity_diagrams/discipline_employee.svg)
 
 [Back to index](#index)

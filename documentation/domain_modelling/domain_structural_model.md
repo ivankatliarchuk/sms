@@ -1,3 +1,5 @@
+# Domain structural model
+
 ## Candidate classes
 
 Table 1. Tangible objects as candidate classes

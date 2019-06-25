@@ -10,6 +10,7 @@
 - [Track employee training](#track-employee-training)
 - [Reward employee](#reward-employee)
 - [Discipline employee](#discipline-employee)
+- [Terminate employment](#terminate-employment)
 
 ## Hire an employee
 
@@ -97,5 +98,15 @@ Any employee's action at work that is a breach of the company's policies is subj
 Figure 8. Activity diagram for the _discipline employee_ business process
 
 ![Activity diagram for the 'discipline employee' business process](./activity_diagrams/discipline_employee.svg)
+
+[Back to index](#index)
+
+## Terminate employment
+
+An employment contract can be terminated at any time by either an employee or the employer and it could be a resignation, dismissal, redundancy or retirement. While fulfilling the preparatory steps required by the law, the HR Department issues a request to the IT Department about revocation of access to all computer, network and data that the employee has, that should be proceeded at the time of employee's leave or immediately in the case of dismissal. Another request to the IT is about preservation of data related to that employee that could be of legal significance. The HR sends also an information about termination to the Payroll Department. The employee is obliged to return all equipment provided to him/her by the company to perform his/her duties. The HR conducts an exit interview with the employee. If the employee plans to seek employment, the HR asks him/her to sign a form giving the company permission to provide reference information at the request of potential employers. After termination is done, former employee's records are updated and archived.
+
+Figure 9. Activity diagram for the _terminate employment_ business process
+
+![Activity diagram for the 'terminate employment' business process](./activity_diagrams/terminate_employment.svg)
 
 [Back to index](#index)

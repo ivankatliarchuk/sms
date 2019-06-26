@@ -2,7 +2,7 @@
 
 ## Candidate classes
 
-Selection of candidate objects in the problem domain to be represented as classes based on the noun phrases from the [initial problem statement](./initial_problem_statement.md).
+Selection of candidate objects in the problem domain to be represented as classes based on the noun phrases from the _[Initial problem statement](./initial_problem_statement.md)_.
 
 Table 1. Selection of objects as candidate classes
 

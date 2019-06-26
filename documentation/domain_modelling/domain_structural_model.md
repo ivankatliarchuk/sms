@@ -2,29 +2,109 @@
 
 ## Candidate classes
 
-Table 1. Tangible objects as candidate classes
+Selection of candidate objects in the problem domain to be represented as classes based on the noun phrases from the [initial problem statement](./initial_problem_statement.md).
 
-| Candidate          | Represent as class?                                                                |
-| ------------------ | ---------------------------------------------------------------------------------- |
-| Electronic devices | No. May record as an attribute, so to known whether the employee should have some. |
-| Laptop             | No. Similar argument to that of electronic devices.                                |
-| Mobile phone       | No. Similar argument to that of electronic devices.                                |
-| Devices            | No. Synonym for electronic devices.                                                |
-| Computer system    | Not part of the domain.                                                            |
+Table 1. Selection of objects as candidate classes
 
-Table 2. Roles as candidate classes
-
-| Candidate              | Represent as class?                                     |
-| ---------------------- | ------------------------------------------------------- |
-| Member of staff        | Yes. Specialisation of _Employee_.                      |
-| Person                 | No. Synonym for employee.                               |
-| Head of the department | No. Should be recorded as an attribute.                 |
-| Section coordinator    | No. Similar argument to that of head of the department. |
-| Team leader            | No. Similar argument to that of head of the department. |
-| Managing director      | No. Similar argument to that of head of the department. |
-| Employee               | Yes.                                                    |
-| Employer               | No. Synonym for company.                                |
-| Doctor                 | Not part of the domain.                                 |
-| Line manager           | No. Similar argument to that of head of the department. |
-| Manager                | Yes. Specialisation of _Employee_.                      |
-| Subordinate            | No. Synonym of member of staff.                         |
+| Candidate                   | Decision |
+| --------------------------- | -------- |
+| Absence                     |          |
+| Activity                    |          |
+| Analysis                    |          |
+| Annual appraisal            |          |
+| Annual paid holiday         |          |
+| Assessment                  |          |
+| Assumption                  |          |
+| Audit                       |          |
+| Basic salary                |          |
+| Business purpose            |          |
+| Case                        |          |
+| Certification               |          |
+| Company                     |          |
+| Company pension scheme      |          |
+| Company policy              |          |
+| Company's property          |          |
+| Contractual obligation      |          |
+| Control                     |          |
+| Data                        |          |
+| Data record                 |          |
+| Date of return to work      |          |
+| Department                  |          |
+| Department head             |          |
+| Disciplinary action         |          |
+| Doctor                      |          |
+| Duty                        |          |
+| Electronic device           |          |
+| Employee                    |          |
+| Employee's performance      |          |
+| Employer                    |          |
+| Employment                  |          |
+| Employment contract         |          |
+| End of probation assessment |          |
+| Extended probation          |          |
+| Head of department          |          |
+| Hourly rate                 |          |
+| Human resources             |          |
+| Integrated computer system  |          |
+| Laptop                      |          |
+| Length of notice            |          |
+| Letter of alphabet          |          |
+| Line manager                |          |
+| Located                     |          |
+| Management                  |          |
+| Manager                     |          |
+| Managerial contract         |          |
+| Managing director           |          |
+| Means                       |          |
+| Member of staff             |          |
+| Minimum term of employment  |          |
+| Mobile phone                |          |
+| Model company               |          |
+| Next year                   |          |
+| Notice                      |          |
+| Number of hours per week    |          |
+| Objective                   |          |
+| Oneself                     |          |
+| Overtime                    |          |
+| Part of domain              |          |
+| Party                       |          |
+| Payroll                     |          |
+| Period                      |          |
+| Period guaranteed by law    |          |
+| Person                      |          |
+| Personal data               |          |
+| Personnel                   |          |
+| Probation                   |          |
+| Probationary period         |          |
+| Process                     |          |
+| Professional development    |          |
+| Professional training       |          |
+| Progress                    |          |
+| Project                     |          |
+| Prove                       |          |
+| Quarter                     |          |
+| Record of devices           |          |
+| Regular employee            |          |
+| Return                      |          |
+| Rule                        |          |
+| Section                     |          |
+| Section coordinator         |          |
+| Shift allowance             |          |
+| Sick pay                    |          |
+| Spreadsheet                 |          |
+| Staff                       |          |
+| Staff management            |          |
+| Staff Management System     |          |
+| Staff member                |          |
+| Subordinate                 |          |
+| System                      |          |
+| System                      |          |
+| Team                        |          |
+| Team leader                 |          |
+| Time                        |          |
+| Time frame                  |          |
+| Tool                        |          |
+| Training                    |          |
+| Unique name                 |          |
+| Work                        |          |
+| Work permit                 |          |

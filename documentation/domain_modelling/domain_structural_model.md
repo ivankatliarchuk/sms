@@ -12,7 +12,7 @@ Table 1. Selection of objects as candidate classes
 | Activity                    | This is a generic term, so reject.                                                             |
 | Analysis                    | Reject, as for activity.                                                                       |
 | Annual appraisal            | Keep as _Appraisal_.                                                                           |
-| Annual paid holiday         | Keep as _Holiday_.                                                                             |
+| Annual paid holiday         | Type of _Absence_, so keep as _Holiday_.                                                       |
 | Assessment                  | Keep as _Assessment_.                                                                          |
 | Assumption                  | Reject, as for activity.                                                                       |
 | Audit                       | Reject, as for activity.                                                                       |
@@ -43,32 +43,31 @@ Table 1. Selection of objects as candidate classes
 | End of probation assessment | Could be a special type of _Assessment_, but since there is no other type, so reject.          |
 | Extended probation          | Use as an attribute of _Probation_.                                                            |
 | Head of department          | Reject, as synonym for department head.                                                        |
-| Hourly rate                 | Use as an attribute of _Salary_.                                                               |
+| Hourly rate                 | Use as an attribute of _EmploymentContract_.                                                   |
 | Human resources             | Reject, as for activity.                                                                       |
 | Integrated computer system  | Not part of the domain.                                                                        |
 | Laptop                      | Not part of the domain.                                                                        |
 | Length of notice            | Use as an attribute of _EmploymentContract_.                                                   |
-| Letter of alphabet          | Use as an attribute of _Team_.                                                                 |
+| Letter of alphabet          | Reject, as for activity.                                                                       |
 | Line manager                | Use as an attribute of _Employee_.                                                             |
-| Located                     |                                                                                                |
 | Management                  | Reject, as for activity.                                                                       |
 | Manager                     | Type of _Employee_, so keep as _Manager_.                                                      |
 | Managerial contract         | Keep as _ManagerialContract_.                                                                  |
 | Managing director           | Type of _Manager_, so keep as _ManagingDirector_.                                              |
-| Means                       |                                                                                                |
+| Means                       | Reject, as for activity.                                                                       |
 | Member of staff             | Synonym for staff member, so reject.                                                           |
 | Minimum term of employment  | In this context it is covered by notice, so reject.                                            |
 | Mobile phone                | Not part of the domain.                                                                        |
 | Model company               | Not part of the domain.                                                                        |
-| Next year                   |                                                                                                |
-| Notice                      |                                                                                                |
-| Number of hours per week    |                                                                                                |
-| Objective                   | Use as an attribute of _Appraisal_.                                                            |
+| Next year                   | Reject, as for activity.                                                                       |
+| Notice                      | Keep as _Notice_.                                                                              |
+| Number of hours per week    | Use as an attribute of _EmploymentContract_.                                                   |
+| Objective                   | Use as an attribute of _Development_.                                                          |
 | Oneself                     | Reject, as for activity.                                                                       |
 | Overtime                    | Use as an attribute of _Salary_.                                                               |
 | Part of domain              | Reject, as for activity.                                                                       |
 | Party                       | Reject, as for activity.                                                                       |
-| Payroll                     |                                                                                                |
+| Payroll                     | Reject, as for activity.                                                                       |
 | Period                      | Reject, as for activity.                                                                       |
 | Period guaranteed by law    | Reject, as for activity.                                                                       |
 | Person                      | Keep as _Person_.                                                                              |
@@ -77,33 +76,33 @@ Table 1. Selection of objects as candidate classes
 | Probation                   | Keep as _Probation_.                                                                           |
 | Probationary period         | Reject, as synonym for probation.                                                              |
 | Process                     | Reject, as for activity.                                                                       |
-| Professional development    |                                                                                                |
-| Professional training       |                                                                                                |
-| Progress                    |                                                                                                |
-| Project                     |                                                                                                |
-| Prove                       |                                                                                                |
-| Quarter                     |                                                                                                |
-| Record of devices           |                                                                                                |
+| Professional development    | Keep as _Development_.                                                                         |
+| Professional training       | Synonym for training, so reject.                                                               |
+| Progress                    | Reject, as for activity.                                                                       |
+| Project                     | Reject, as for activity.                                                                       |
+| Prove                       | Reject, as for activity.                                                                       |
+| Quarter                     | Reject, as for activity.                                                                       |
+| Record of devices           | Keep as _RecordOfDevices_.                                                                     |
 | Regular employee            | Synonym for staff member, so reject.                                                           |
-| Return                      |                                                                                                |
-| Rule                        |                                                                                                |
+| Return                      | Synonym of return to work.                                                                     |
+| Rule                        | Keep as _Rule_.                                                                                |
 | Section                     | Use as an attribute of _SectionCoordinator_.                                                   |
 | Section coordinator         | Type of _Manager_, so keep as _SectionCoordinator_.                                            |
 | Shift allowance             | Use as an attribute of _Salary_.                                                               |
 | Sick pay                    | Use as an attribute of _Salary_.                                                               |
-| Spreadsheet                 |                                                                                                |
-| Staff                       |                                                                                                |
-| Staff management            |                                                                                                |
-| Staff Management System     |                                                                                                |
+| Spreadsheet                 | Reject, as for activity.                                                                       |
+| Staff                       | Reject, as for activity.                                                                       |
+| Staff management            | Reject, as for activity.                                                                       |
+| Staff Management System     | Not part of the domain.                                                                        |
 | Staff member                | Type of _Employee_, so keep as _StaffMember_.                                                  |
 | Subordinate                 | Reject, as for activity.                                                                       |
-| System                      |                                                                                                |
+| System                      | Not part of the domain.                                                                        |
 | Team                        | Use as an attribute of _StaffMember_ that holds the role of a team leader.                     |
 | Team leader                 | A role held by _StaffMember_.                                                                  |
 | Time                        | Reject, as for activity.                                                                       |
-| Time frame                  |                                                                                                |
+| Time frame                  | Use as an attribute of _EmploymentContract_.                                                   |
 | Tool                        | Reject, as for activity.                                                                       |
 | Training                    | Keep as _Training_.                                                                            |
-| Unique name                 |                                                                                                |
+| Unique name                 | Reject, as for activity.                                                                       |
 | Work                        | Reject, as for activity.                                                                       |
 | Work permit                 | Keep as _WorkPermit_.                                                                          |

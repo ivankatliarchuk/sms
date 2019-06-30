@@ -39,7 +39,7 @@ Table 1. Selection of objects as candidate classes
 | Employee's performance      | Use as an attribute of _Appraisal_.                                                            |
 | Employer                    | Use as an attribute of _EmploymentContract_.                                                   |
 | Employment                  | Reject, as for activity.                                                                       |
-| Employment contract         | Keep as _EmploymentContract_.                                                                  |
+| Employment contract         | Type of _Contract_, so keep as _EmploymentContract_.                                           |
 | End of probation assessment | Could be a special type of _Assessment_, but since there is no other type, so reject.          |
 | Extended probation          | Use as an attribute of _Probation_.                                                            |
 | Head of department          | Reject, as synonym for department head.                                                        |
@@ -52,7 +52,7 @@ Table 1. Selection of objects as candidate classes
 | Line manager                | Use as an attribute of _Employee_.                                                             |
 | Management                  | Reject, as for activity.                                                                       |
 | Manager                     | Type of _Employee_, so keep as _Manager_.                                                      |
-| Managerial contract         | Keep as _ManagerialContract_.                                                                  |
+| Managerial contract         | Type of _Contract_, so keep as _ManagerialContract_.                                           |
 | Managing director           | Type of _Manager_, so keep as _ManagingDirector_.                                              |
 | Means                       | Reject, as for activity.                                                                       |
 | Member of staff             | Synonym for staff member, so reject.                                                           |

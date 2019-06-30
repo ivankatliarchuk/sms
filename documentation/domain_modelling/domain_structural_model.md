@@ -19,7 +19,7 @@ Table 1. Selection of objects as candidate classes
 | Basic salary                | Since this is just part of what employee is paid as a salary, use as an attribute of _Salary_. |
 | Business purpose            | Reject, as for activity.                                                                       |
 | Case                        | Reject, as for activity.                                                                       |
-| Certification               | Keep as _SicknessCertificate_                                                                  |
+| Certification               | Keep as _SicknessCertificate_.                                                                 |
 | Company                     | Use as an attribute of _ManagingDirector_.                                                     |
 | Company pension scheme      | Keep as _PensionScheme_.                                                                       |
 | Company policy              | Keep as _Policy_.                                                                              |
@@ -97,8 +97,8 @@ Table 1. Selection of objects as candidate classes
 | Staff member                | Type of _Employee_, so keep as _StaffMember_.                                                  |
 | Subordinate                 | Reject, as for activity.                                                                       |
 | System                      | Not part of the domain.                                                                        |
-| Team                        | Use as an attribute of _StaffMember_ that holds the role of a team leader.                     |
-| Team leader                 | A role held by _StaffMember_.                                                                  |
+| Team                        | Use as an attribute of _StaffMember_.                                                          |
+| Team leader                 | A role held by _StaffMember_, so use as its attribute.                                         |
 | Time                        | Reject, as for activity.                                                                       |
 | Time frame                  | Use as an attribute of _EmploymentContract_.                                                   |
 | Tool                        | Reject, as for activity.                                                                       |

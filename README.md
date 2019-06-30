@@ -8,6 +8,8 @@ I will mainly follow the [Unified Software Development Process](https://en.wikip
 
 All diagrams in the project documentation are created using [UMLet](https://www.umlet.com/), free, open-source UML tool with a simple user interface, which also has web-based version, called [UMLetino](http://www.umletino.com/).
 
+This is an open source project released under GNU Affero General Public License v3.0 (details, see [LICENSE](./LICENSE))
+
 ## Bibliography
 
 Chonoles, M. J. and Schardt, J. A (2003) _UML 2 for Dummies_, Hoboken, Wiley Publishing.

@@ -167,4 +167,65 @@
     <panel_attributes>lt=&lt;&lt;-</panel_attributes>
     <additional_attributes>10.0;70.0;10.0;10.0</additional_attributes>
   </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>210</x>
+      <y>360</y>
+      <w>150</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>EmploymentContract
+--
+- timeFrame
+- hoursPerWeek
+- employer
+- hourlyRate
+- lengthOfNotice</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>270</x>
+      <y>470</y>
+      <w>30</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;80.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>320</x>
+      <y>390</y>
+      <w>160</w>
+      <h>200</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;180.0;140.0;180.0;140.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>390</x>
+      <y>360</y>
+      <w>140</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>ManagerialContract</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>230</x>
+      <y>550</y>
+      <w>100</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Contract</panel_attributes>
+    <additional_attributes/>
+  </element>
 </diagram>

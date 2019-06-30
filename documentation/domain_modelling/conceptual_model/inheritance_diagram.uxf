@@ -111,19 +111,19 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>620</x>
+      <x>700</x>
       <y>470</y>
-      <w>110</w>
-      <h>160</h>
+      <w>30</w>
+      <h>120</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-</panel_attributes>
-    <additional_attributes>90.0;10.0;90.0;140.0;10.0;140.0</additional_attributes>
+    <additional_attributes>10.0;10.0;10.0;100.0</additional_attributes>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>530</x>
-      <y>590</y>
+      <x>660</x>
+      <y>570</y>
       <w>100</w>
       <h>50</h>
     </coordinates>
@@ -131,21 +131,6 @@
 --
 - team</panel_attributes>
     <additional_attributes/>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>410</x>
-      <y>520</y>
-      <w>210</w>
-      <h>130</h>
-    </coordinates>
-    <panel_attributes>lt=-
-m1=1..*
-m2=0..1
-r2=teamLeader
-leads &gt;</panel_attributes>
-    <additional_attributes>170.0;70.0;170.0;20.0;10.0;20.0;10.0;100.0;120.0;100.0</additional_attributes>
   </element>
   <element>
     <id>UMLClass</id>

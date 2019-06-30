@@ -4,9 +4,9 @@
 
 The purpose of this project is creation of a tool that could help a company manage its staff and all associated data, including personal data, payroll, absences, training, etc. It is also a practical exercise of what I learned during the academic year 2018/2019 while studying _TM354 Software engineering_ at the Open University.
 
-I will mainly follow the [Unified Software Development Process](https://en.wikipedia.org/wiki/Unified_Process), using good practices described in my study materials and books that I always have in the reach of my hand (see [bibliography](#bibliography)).
+I will mainly follow the [Unified Software Development Process](https://en.wikipedia.org/wiki/Unified_Process){:target="\_blank"}, using good practices described in my study materials and books that I always have in the reach of my hand (see [bibliography](#bibliography)).
 
-All diagrams in the project documentation are created using [UMLet](https://www.umlet.com/), free, open-source UML tool with a simple user interface, which also has web-based version, called [UMLetino](http://www.umletino.com/).
+All diagrams in the project documentation are created using [UMLet](https://www.umlet.com/){:target="\_blank"}, free, open-source UML tool with a simple user interface, which also has web-based version, called [UMLetino](http://www.umletino.com/){:target="\_blank"}.
 
 ## Bibliography
 

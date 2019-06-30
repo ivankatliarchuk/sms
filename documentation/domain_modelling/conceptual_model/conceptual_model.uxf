@@ -689,13 +689,14 @@ m2=  *</panel_attributes>
       <x>156</x>
       <y>48</y>
       <w>204</w>
-      <h>108</h>
+      <h>132</h>
     </coordinates>
     <panel_attributes>Since this diagram
 became too complicated
-I have decided to split
-it into several smaller
-ones
+and not correct in some
+aspects, I have decided
+to split it into several
+smaller ones
 bg=red</panel_attributes>
     <additional_attributes/>
   </element>

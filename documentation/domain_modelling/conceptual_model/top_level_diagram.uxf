@@ -45,11 +45,11 @@ m2=*
       <x>884</x>
       <y>650</y>
       <w>91</w>
-      <h>234</h>
+      <h>182</h>
     </coordinates>
     <panel_attributes>lt=-
 /held by/</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;160.0</additional_attributes>
+    <additional_attributes>10.0;10.0;10.0;120.0</additional_attributes>
   </element>
   <element>
     <id>UMLClass</id>
@@ -135,7 +135,7 @@ m1=*
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>494</x>
+      <x>468</x>
       <y>429</y>
       <w>169</w>
       <h>52</h>
@@ -146,28 +146,28 @@ m1=*
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>559</x>
+      <x>533</x>
       <y>195</y>
-      <w>208</w>
+      <w>234</w>
       <h>260</h>
     </coordinates>
     <panel_attributes>lt=-
 m1=*
 /taken by/</panel_attributes>
-    <additional_attributes>10.0;180.0;10.0;10.0;140.0;10.0</additional_attributes>
+    <additional_attributes>10.0;180.0;10.0;10.0;160.0;10.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>559</x>
+      <x>533</x>
       <y>468</y>
-      <w>208</w>
+      <w>234</w>
       <h>156</h>
     </coordinates>
     <panel_attributes>lt=-
 m2=*
 /is subject to/</panel_attributes>
-    <additional_attributes>140.0;100.0;10.0;100.0;10.0;10.0</additional_attributes>
+    <additional_attributes>160.0;100.0;10.0;100.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>UMLClass</id>
@@ -183,7 +183,7 @@ m2=*
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>702</x>
+      <x>650</x>
       <y>364</y>
       <w>130</w>
       <h>52</h>
@@ -231,15 +231,15 @@ m2=*
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>962</x>
+      <x>988</x>
       <y>858</y>
-      <w>221</w>
+      <w>195</w>
       <h>65</h>
     </coordinates>
     <panel_attributes>lt=-
 m2=*
 /based on/</panel_attributes>
-    <additional_attributes>10.0;20.0;150.0;20.0</additional_attributes>
+    <additional_attributes>10.0;20.0;130.0;20.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
@@ -322,15 +322,15 @@ m1=*
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>754</x>
+      <x>650</x>
       <y>403</y>
-      <w>104</w>
+      <w>117</w>
       <h>208</h>
     </coordinates>
     <panel_attributes>lt=-
-m2=0..1
+m1=0..1
 /hands in/</panel_attributes>
-    <additional_attributes>10.0;140.0;10.0;10.0</additional_attributes>
+    <additional_attributes>10.0;10.0;10.0;120.0;70.0;140.0</additional_attributes>
   </element>
   <element>
     <id>UMLClass</id>
@@ -360,7 +360,7 @@ m2=0..1
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>754</x>
+      <x>650</x>
       <y>208</y>
       <w>182</w>
       <h>182</h>
@@ -368,7 +368,7 @@ m2=0..1
     <panel_attributes>lt=-
 m1=*
 /acknowledged by/</panel_attributes>
-    <additional_attributes>10.0;120.0;10.0;10.0</additional_attributes>
+    <additional_attributes>10.0;120.0;10.0;30.0;70.0;10.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
@@ -399,12 +399,43 @@ m2=*
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>845</x>
-      <y>858</y>
-      <w>130</w>
-      <h>52</h>
+      <x>806</x>
+      <y>806</y>
+      <w>195</w>
+      <h>156</h>
     </coordinates>
-    <panel_attributes>Contract</panel_attributes>
+    <panel_attributes>EmploymentContract
+--
+- timeFrame
+- hoursPerWeek
+- employer
+- hourlyRate
+- lengthOfNotice</panel_attributes>
     <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>767</x>
+      <y>208</y>
+      <w>169</w>
+      <h>182</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m2=*
+/hands in/</panel_attributes>
+    <additional_attributes>60.0;10.0;60.0;100.0;10.0;120.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>754</x>
+      <y>403</y>
+      <w>182</w>
+      <h>208</h>
+    </coordinates>
+    <panel_attributes>lt=-
+/acknowledged by/</panel_attributes>
+    <additional_attributes>10.0;140.0;10.0;10.0</additional_attributes>
   </element>
 </diagram>

@@ -440,4 +440,16 @@ bg=green</panel_attributes>
     <panel_attributes>lt=.</panel_attributes>
     <additional_attributes>190.0;260.0;10.0;10.0</additional_attributes>
   </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>403</x>
+      <y>845</y>
+      <w>156</w>
+      <h>65</h>
+    </coordinates>
+    <panel_attributes>lt=-
+/        is part of/</panel_attributes>
+    <additional_attributes>100.0;30.0;10.0;10.0</additional_attributes>
+  </element>
 </diagram>

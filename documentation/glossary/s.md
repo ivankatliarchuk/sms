@@ -2,6 +2,12 @@
 
 [a](../glossary.md) [b](b.md) [c](c.md) [d](d.md) [e](e.md) [f](f.md) [g](g.md) [h](h.md) [i](i.md) [j](j.md) [k](k.md) [l](l.md) [m](m.md) [n](n.md) [o](o.md) [p](p.md) [q](q.md) [r](r.md) s [t](t.md) [u](u.md) [v](v.md) [w](w.md) [x](x.md) [y](y.md) [z](z.md)
 
-| Term | Category | Definition |
-| ---- | -------- | ---------- |
-
+| Term                  | Category                          | Definition                                                                                                                                                                                                 |
+| --------------------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| _Salary_              | Concept                           | An amount paid monthly to _Employee_ for his/her work that is based on the _EmploymentContract_.                                                                                                           |
+| _section_             | Attribute of _SectionCoordinator_ | A name of a section that a _SectionCoordinator_ is managing.                                                                                                                                               |
+| _SectionCoordinator_  | Concept                           | A _Manager_ that is in charge of a section.                                                                                                                                                                |
+| _shiftAllowance_      | An attribute of _Salary_          | An amount paid to _Employee_ as a part of _Salary_ as a compensation for work in shift pattern.                                                                                                            |
+| _SicknessCertificate_ | Concept                           | A certificate from a doctor or self-certification that an _Employee_ has to provide as a proof of excusable absence that makes him/her eligible to receive sick pay.                                       |
+| _sickPay_             | An attribute of _Salary_          | An amount paid to _Employee_ as a part of _Salary_ that covers the period of _Absence_ due to sickness, where equivalent amount of money at the same time is deducted from the basic part of the _Salary_. |
+| _StaffMember_         | Concept                           | An employee that is not holding any managerial role.                                                                                                                                                       |

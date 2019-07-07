@@ -6,5 +6,5 @@
 | --------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | _PensionScheme_ | Concept  | A type of savings plan that _Employee_ pay into a part of his/her _Salary_ and an employer contributes to, that will provide the _Employee_ with a pension on retirement. |
 | _Person_        | Concept  | A person that is either an _Employee_ or a _Manager_.                                                                                                                     |
-| _Policy_        | Concept  | A documented guideline or rule of conduct within company that outlines the responsibilities of both _Employee_ and employer.                                              |
+| _Policy_        | Concept  | A documented guideline or _Rule_ of conduct within company that outlines the responsibilities of both _Employee_ and employer.                                            |
 | _Probation_     | Concept  | A status given to new _Employee_ that allows close evaluation of his/her skills and progress at work by the line manager.                                                 |

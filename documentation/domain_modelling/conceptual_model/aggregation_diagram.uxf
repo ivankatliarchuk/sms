@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <diagram program="umlet" version="14.3.0">
-  <zoom_level>10</zoom_level>
+  <zoom_level>20</zoom_level>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>660</x>
-      <y>340</y>
-      <w>130</w>
-      <h>40</h>
+      <x>300</x>
+      <y>480</y>
+      <w>260</w>
+      <h>80</h>
     </coordinates>
     <panel_attributes>Manager</panel_attributes>
     <additional_attributes/>
@@ -15,10 +15,10 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>870</x>
-      <y>340</y>
-      <w>120</w>
-      <h>50</h>
+      <x>720</x>
+      <y>480</y>
+      <w>240</w>
+      <h>100</h>
     </coordinates>
     <panel_attributes>Employee
 --
@@ -28,10 +28,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>710</x>
-      <y>220</y>
-      <w>100</w>
-      <h>140</h>
+      <x>400</x>
+      <y>240</y>
+      <w>200</w>
+      <h>280</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-</panel_attributes>
     <additional_attributes>10.0;120.0;10.0;10.0;80.0;10.0</additional_attributes>
@@ -39,10 +39,10 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>790</x>
-      <y>210</y>
-      <w>80</w>
-      <h>40</h>
+      <x>560</x>
+      <y>220</y>
+      <w>160</w>
+      <h>80</h>
     </coordinates>
     <panel_attributes>Person</panel_attributes>
     <additional_attributes/>
@@ -50,10 +50,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>860</x>
-      <y>220</y>
-      <w>90</w>
-      <h>140</h>
+      <x>700</x>
+      <y>240</y>
+      <w>180</w>
+      <h>280</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-</panel_attributes>
     <additional_attributes>70.0;120.0;70.0;10.0;10.0;10.0</additional_attributes>
@@ -61,10 +61,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>920</x>
-      <y>380</y>
-      <w>30</w>
-      <h>100</h>
+      <x>820</x>
+      <y>560</y>
+      <w>60</w>
+      <h>200</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;80.0</additional_attributes>
@@ -72,10 +72,10 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>880</x>
-      <y>460</y>
-      <w>100</w>
-      <h>40</h>
+      <x>740</x>
+      <y>720</y>
+      <w>200</w>
+      <h>80</h>
     </coordinates>
     <panel_attributes>WorkPermit</panel_attributes>
     <additional_attributes/>

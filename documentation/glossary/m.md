@@ -10,6 +10,7 @@
 | _Manager_ - _Assessment_         | Association | A _Manager_ carries out an _Assessment_ at the end of _Probation_ completed by his/her _Employee_.             |
 | _Manager_ - _Development_        | Association | A _Manager_ can agree a _Development_ of an _Employee_.                                                        |
 | _Manager_ - _DisciplinaryAction_ | Association | A _Manager_ can take a _DisciplinaryAction_ that an _Employee_ is subjected to.                                |
+| _Manager_ - _ManagerialContract_ | Association | A _Manager_ has a single _ManagerialContract_.                                                                 |
 | _Manager_ - _Notice_             | Association | A _Manager_ can hand in a _Notice_ to an _Employee_ or acknowledge a _Notice_ handed in by his/her _Employee_. |
 | _Manager_ - _Training_           | Association | A _Manager_ can plan a _Training_ for an _Employee_ to carry out.                                              |
 | _ManagerialContract_             | Concept     | Type of _EmploymentContract_ that covers conditions of employment of a _Manager_.                              |

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>18</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>504</x>
+      <y>108</y>
+      <w>288</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes>Manager</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>504</x>
+      <y>720</y>
+      <w>288</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes>Employee
+--
+- lineManager</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>522</x>
+      <y>432</y>
+      <w>270</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>Absence
+--
+- dateOfReturnToWork</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>630</x>
+      <y>198</y>
+      <w>234</w>
+      <h>270</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m2=*
+/checks reason of/</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;130.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>630</x>
+      <y>504</y>
+      <w>144</w>
+      <h>252</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m2=*
+/taken by/</panel_attributes>
+    <additional_attributes>10.0;120.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>162</x>
+      <y>432</y>
+      <w>180</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>Holiday</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1026</x>
+      <y>432</y>
+      <w>234</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>SicknessCertificate</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>774</x>
+      <y>486</y>
+      <w>396</w>
+      <h>306</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m2=*
+/provides/</panel_attributes>
+    <additional_attributes>10.0;150.0;200.0;150.0;200.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>774</x>
+      <y>432</y>
+      <w>288</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>lt=-
+/justifies/</panel_attributes>
+    <additional_attributes>10.0;20.0;140.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>234</x>
+      <y>126</y>
+      <w>306</w>
+      <h>342</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m2=*
+/approves/</panel_attributes>
+    <additional_attributes>150.0;20.0;10.0;20.0;10.0;170.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>234</x>
+      <y>486</y>
+      <w>306</w>
+      <h>306</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=*
+/applied for by/</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;150.0;150.0;150.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>324</x>
+      <y>450</y>
+      <w>234</w>
+      <h>54</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>110.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+</diagram>

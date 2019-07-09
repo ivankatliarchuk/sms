@@ -50,7 +50,7 @@
       <w>368</w>
       <h>64</h>
     </coordinates>
-    <panel_attributes>lt=-
+    <panel_attributes>lt=-&gt;
 /holds/</panel_attributes>
     <additional_attributes>10.0;20.0;210.0;20.0</additional_attributes>
   </element>
@@ -62,7 +62,7 @@
       <w>176</w>
       <h>512</h>
     </coordinates>
-    <panel_attributes>lt=-
+    <panel_attributes>lt=-&gt;
 m1=lineManager
 m2=*
 /manages/</panel_attributes>
@@ -87,7 +87,7 @@ m2=*
       <w>368</w>
       <h>64</h>
     </coordinates>
-    <panel_attributes>lt=-
+    <panel_attributes>lt=-&gt;
 /holds/</panel_attributes>
     <additional_attributes>10.0;20.0;210.0;20.0</additional_attributes>
   </element>
@@ -110,7 +110,7 @@ m2=*
       <w>256</w>
       <h>288</h>
     </coordinates>
-    <panel_attributes>lt=-
+    <panel_attributes>lt=-&gt;
 m2=0..1
 /requires/</panel_attributes>
     <additional_attributes>90.0;160.0;90.0;10.0;10.0;10.0</additional_attributes>
@@ -195,7 +195,7 @@ leads &gt;</panel_attributes>
       <w>192</w>
       <h>256</h>
     </coordinates>
-    <panel_attributes>lt=-
+    <panel_attributes>lt=-&gt;
 m2=0..1
 /requires/</panel_attributes>
     <additional_attributes>100.0;20.0;10.0;20.0;10.0;140.0</additional_attributes>

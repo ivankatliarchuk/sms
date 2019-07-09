@@ -46,7 +46,7 @@
       <w>234</w>
       <h>270</h>
     </coordinates>
-    <panel_attributes>lt=-
+    <panel_attributes>lt=-&gt;
 m2=*
 /checks reason of/</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;130.0</additional_attributes>
@@ -59,7 +59,7 @@ m2=*
       <w>144</w>
       <h>252</h>
     </coordinates>
-    <panel_attributes>lt=-
+    <panel_attributes>lt=&lt;-
 m2=*
 /taken by/</panel_attributes>
     <additional_attributes>10.0;120.0;10.0;10.0</additional_attributes>
@@ -94,7 +94,7 @@ m2=*
       <w>396</w>
       <h>306</h>
     </coordinates>
-    <panel_attributes>lt=-
+    <panel_attributes>lt=-&gt;
 m2=*
 /provides/</panel_attributes>
     <additional_attributes>10.0;150.0;200.0;150.0;200.0;10.0</additional_attributes>
@@ -107,7 +107,7 @@ m2=*
       <w>288</w>
       <h>72</h>
     </coordinates>
-    <panel_attributes>lt=-
+    <panel_attributes>lt=&lt;-
 /justifies/</panel_attributes>
     <additional_attributes>10.0;20.0;140.0;20.0</additional_attributes>
   </element>
@@ -119,7 +119,7 @@ m2=*
       <w>306</w>
       <h>342</h>
     </coordinates>
-    <panel_attributes>lt=-
+    <panel_attributes>lt=-&gt;
 m2=*
 /approves/</panel_attributes>
     <additional_attributes>150.0;20.0;10.0;20.0;10.0;170.0</additional_attributes>
@@ -132,7 +132,7 @@ m2=*
       <w>306</w>
       <h>306</h>
     </coordinates>
-    <panel_attributes>lt=-
+    <panel_attributes>lt=-&gt;
 m1=*
 /applied for by/</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;150.0;150.0;150.0</additional_attributes>

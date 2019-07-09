@@ -20,7 +20,7 @@
       <w>286</w>
       <h>416</h>
     </coordinates>
-    <panel_attributes>lt=-
+    <panel_attributes>lt=-&gt;
 m1=lineManager
 m2=*
 /manages/</panel_attributes>
@@ -47,7 +47,7 @@ m2=*
       <w>91</w>
       <h>182</h>
     </coordinates>
-    <panel_attributes>lt=-
+    <panel_attributes>lt=&lt;-
 /held by/</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;120.0</additional_attributes>
   </element>
@@ -75,7 +75,7 @@ m2=*
       <w>429</w>
       <h>208</h>
     </coordinates>
-    <panel_attributes>lt=-
+    <panel_attributes>lt=-&gt;
 m2=*
 /       earns/</panel_attributes>
     <additional_attributes>10.0;10.0;310.0;140.0</additional_attributes>
@@ -88,7 +88,7 @@ m2=*
       <w>507</w>
       <h>507</h>
     </coordinates>
-    <panel_attributes>lt=-
+    <panel_attributes>lt=-&gt;
 m2=*
 /checks reason of/</panel_attributes>
     <additional_attributes>10.0;20.0;370.0;20.0;370.0;370.0</additional_attributes>
@@ -114,7 +114,7 @@ m2=*
       <w>403</w>
       <h>65</h>
     </coordinates>
-    <panel_attributes>lt=-
+    <panel_attributes>lt=&lt;-
 m2=*
 /taken by/</panel_attributes>
     <additional_attributes>10.0;20.0;290.0;20.0</additional_attributes>
@@ -127,7 +127,7 @@ m2=*
       <w>91</w>
       <h>195</h>
     </coordinates>
-    <panel_attributes>lt=-
+    <panel_attributes>lt=-&gt;
 m1=*
 /affects/</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;130.0</additional_attributes>
@@ -151,7 +151,7 @@ m1=*
       <w>234</w>
       <h>260</h>
     </coordinates>
-    <panel_attributes>lt=-
+    <panel_attributes>lt=-&gt;
 m1=*
 /taken by/</panel_attributes>
     <additional_attributes>10.0;180.0;10.0;10.0;160.0;10.0</additional_attributes>
@@ -164,7 +164,7 @@ m1=*
       <w>234</w>
       <h>156</h>
     </coordinates>
-    <panel_attributes>lt=-
+    <panel_attributes>lt=-&gt;
 m2=*
 /is subject to/</panel_attributes>
     <additional_attributes>160.0;100.0;10.0;100.0;10.0;10.0</additional_attributes>
@@ -239,7 +239,7 @@ m2=*
       <w>377</w>
       <h>65</h>
     </coordinates>
-    <panel_attributes>lt=-
+    <panel_attributes>lt=&lt;-
 m2=*
 /based on/</panel_attributes>
     <additional_attributes>10.0;20.0;270.0;20.0</additional_attributes>
@@ -252,7 +252,7 @@ m2=*
       <w>182</w>
       <h>182</h>
     </coordinates>
-    <panel_attributes>lt=-
+    <panel_attributes>lt=-&gt;
 m1=*
 m2=   *
 /carries out/</panel_attributes>
@@ -266,7 +266,7 @@ m2=   *
       <w>299</w>
       <h>65</h>
     </coordinates>
-    <panel_attributes>lt=-
+    <panel_attributes>lt=-&gt;
 m2=*
 /takes part in/</panel_attributes>
     <additional_attributes>210.0;20.0;10.0;20.0</additional_attributes>
@@ -279,7 +279,7 @@ m2=*
       <w>364</w>
       <h>481</h>
     </coordinates>
-    <panel_attributes>lt=-
+    <panel_attributes>lt=-&gt;
 m1=*
 /conducted by/</panel_attributes>
     <additional_attributes>10.0;350.0;10.0;10.0;260.0;10.0</additional_attributes>
@@ -292,7 +292,7 @@ m1=*
       <w>390</w>
       <h>143</h>
     </coordinates>
-    <panel_attributes>lt=-
+    <panel_attributes>lt=-&gt;
 m2=1..2
 /completes/</panel_attributes>
     <additional_attributes>10.0;90.0;260.0;90.0;260.0;10.0</additional_attributes>
@@ -305,7 +305,7 @@ m2=1..2
       <w>117</w>
       <h>104</h>
     </coordinates>
-    <panel_attributes>lt=-
+    <panel_attributes>lt=-&gt;
 /ends with/</panel_attributes>
     <additional_attributes>10.0;60.0;10.0;10.0</additional_attributes>
   </element>
@@ -317,7 +317,7 @@ m2=1..2
       <w>468</w>
       <h>182</h>
     </coordinates>
-    <panel_attributes>lt=-
+    <panel_attributes>lt=-&gt;
 m1=*
 /carried out by/</panel_attributes>
     <additional_attributes>260.0;120.0;260.0;10.0;10.0;10.0</additional_attributes>
@@ -355,7 +355,7 @@ m1=0..1</panel_attributes>
       <w>286</w>
       <h>117</h>
     </coordinates>
-    <panel_attributes>lt=-
+    <panel_attributes>lt=-&gt;
 /                                    carries on/</panel_attributes>
     <additional_attributes>190.0;10.0;20.0;70.0</additional_attributes>
   </element>
@@ -379,7 +379,7 @@ m1=*</panel_attributes>
       <w>533</w>
       <h>663</h>
     </coordinates>
-    <panel_attributes>lt=-
+    <panel_attributes>lt=-&gt;
 /agreed with/</panel_attributes>
     <additional_attributes>90.0;490.0;10.0;490.0;10.0;10.0;390.0;10.0;390.0;30.0</additional_attributes>
   </element>
@@ -391,7 +391,7 @@ m1=*</panel_attributes>
       <w>728</w>
       <h>832</h>
     </coordinates>
-    <panel_attributes>lt=-
+    <panel_attributes>lt=-&gt;
 m1=*
 m2=*
 /planned by/</panel_attributes>
@@ -448,7 +448,7 @@ bg=green</panel_attributes>
       <w>156</w>
       <h>65</h>
     </coordinates>
-    <panel_attributes>lt=-
+    <panel_attributes>lt=-&gt;
 /        is part of/</panel_attributes>
     <additional_attributes>100.0;30.0;10.0;10.0</additional_attributes>
   </element>
